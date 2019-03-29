@@ -1,0 +1,25 @@
+
+.top-menu .nav-link{
+    color:#fff !important;
+    transition: background 0.2s linear;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.top-menu .nav-link:hover{
+    background: #33a;
+}
+
+.btn-fp{
+    background:#007bff;
+    color: #fff;
+    border-radius: 0px;
+    
+}
+.btn-fp:hover{
+    background: #33a;
+    color: #fff;
+}
+
+.sidebar{
+    padding-top: 10px;
+}
